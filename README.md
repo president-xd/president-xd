@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Mohsin</h1>
-<h4 align="center">A Cyber Security Enthus</h4>
+<h4 align="center">A Cyber Security Enthusiast, Privilege Escalator, CTF Player</h4>
   <h3>Certifications</h3>
   <div style="text-align: center;">
     <img src="assets/python-google.png" alt="eCPPTv2" width="150">
