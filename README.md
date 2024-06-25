@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h1>My Contributions</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <h2>⚡ Stats</h2>
+  <h1>⚡ Stats</h1>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=PRESIDENT-XD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="PRESIDENT-XD Github Stats">
   <br/>
