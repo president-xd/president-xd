@@ -11,7 +11,7 @@
 
 
 
-<h3>TryHackMe</h3>
+<h3>TryHackMe (center)</h3>
     <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" align="center "alt="TryHackMe">
 
 <div align="center">
