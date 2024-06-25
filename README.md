@@ -1,6 +1,5 @@
-# Hi 👋, It's Mohsin
-
-#### A Cyber Security Enthusiast, Privilege Escalator, CTF Player
+<h1 align="center">Hi 👋, It's Mohsin</h1>
+<h4 align="center">A Cyber Security Enthusiast, Privilege Escalator, CTF Player</h4>
 
 <div align="center">
   <h1>Certifications<h1>
