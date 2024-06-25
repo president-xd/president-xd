@@ -11,8 +11,12 @@
 
 
 
-<h3>TryHackMe style="text-align: center;"</h3>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" align="center "alt="TryHackMe">
+### TryHackMe
+
+<div style="text-align: center;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
+</div>
+
 
 <div align="center">
   <h2>My Contributions</h2>
