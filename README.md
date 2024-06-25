@@ -3,11 +3,11 @@
 
 <div align="center">
   <h1>Certifications<h1>
-  <img src="assets/python-google.png" alt="eCPPTv2" width="150">
-  <img src="assets/cybersecurity.png" alt="CCNA" width="150">
-  <img src="assets/Cpp.png" alt="eCPPTv2" width="150">
-  <img src="assets/IBM.png" alt="CCNA" width="150">
-  <img src="assets/bash.png" alt="CCNA" width="150">
+  <img src="assets/python-google.png" alt="Python" width="150">
+  <img src="assets/cybersecurity.png" alt="Cyber" width="150">
+  <img src="assets/Cpp.png" alt="Cpluscplus" width="150">
+  <img src="assets/IBM.png" alt="Networking" width="150">
+  <img src="assets/bash.png" alt="Bash" width="150">
 </div>
 
 <div align="center">
