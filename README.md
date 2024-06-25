@@ -10,6 +10,13 @@
   <img src="assets/bash.png" alt="Bash" width="150">
 </div>
 
+<h2 align="center">Skills 👨🏻‍🔬</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,bash,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,docker,kubernetes" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
+</div>
+
 <div align="center">
   <h1>Tryhackme</h1>
   <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
