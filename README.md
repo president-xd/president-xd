@@ -12,13 +12,11 @@
   <img src="assets/bash.png" alt="CCNA" width="150">
 </div>
 
-## TryHackMe
-
 <div align="center">
+  <h1>Tryhackme</h1>
   <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
 </div>
 
-## My Contributions
 
 <div align="center">
   <h2>My Contributions</h2>
