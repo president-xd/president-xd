@@ -2,9 +2,8 @@
 
 #### A Cyber Security Enthusiast, Privilege Escalator, CTF Player
 
-## Certifications
-
 <div align="center">
+  <h1>Certifications<h1>
   <img src="assets/python-google.png" alt="eCPPTv2" width="150">
   <img src="assets/cybersecurity.png" alt="CCNA" width="150">
   <img src="assets/Cpp.png" alt="eCPPTv2" width="150">
@@ -26,8 +25,6 @@
 </div>
 
 ---
-
-## ⚡ Stats
 
 <div align="center">
   <h2>⚡ Stats</h2>
