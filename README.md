@@ -13,8 +13,8 @@
 <h2 align="center">Skills 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,bash,python,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,linux,docker,kubernetes" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=linux" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <div align="center">
