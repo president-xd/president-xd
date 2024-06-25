@@ -14,6 +14,7 @@
 ### TryHackMe
 
 <div style="text-align: center;">
+  <br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
 </div>
 
