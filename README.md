@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, It's Mohsin</h1>
-<h4 align="center">A Cyber Security Researcher, Network Security Researcher, Privilege Escalator, CTF Player</h4>
+<h4 align="center">Programmer
+</h4>
 
 <div align="center">
   <h1>Certifications<h1>
