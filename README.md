@@ -8,7 +8,7 @@
 
 
 <div align="center">
-        <h1> Socials 🌐</h1>
+        <h1>  🌐</h1>
         <div>
             <a href="https://facebook.com/How.Mohsin">
                 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -25,6 +25,10 @@
             <a href="https://x.com/just_mohsin">
                 <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
             </a>
+            <a href="https://leetcode.com/u/Presi-dent/">
+                <img src="https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white" alt="LeetCode">
+            </a>
+
         </div>
     </div>
 <div align="center">
