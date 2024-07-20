@@ -2,8 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+President+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
 </h1>
 
-<h2 align="center">Programmer
-</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Just!!;+Programmer!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
+</h1>
+
 
 <div align="center">
         <h1> Socials 🌐</h1>
