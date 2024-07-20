@@ -64,11 +64,10 @@
 
 <div align="center">
   <h1>Tryhackme</h1>
-  <div align="center">
+</div>
+<div align="center">
     <iframe src="https://tryhackme.com/badge/2667421" width="200" height="200"></iframe>
 </div>
-</div>
-
 
 <div align="center">
   <h1>My Contributions</h1>
