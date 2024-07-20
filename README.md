@@ -2,9 +2,26 @@
 <h4 align="center">Programmer
 </h4>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/How.Mohsin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/president_mohsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsin-mukhtiar-lashari-773431288) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PRESIDNET-XD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/just_mohsin) 
-
+<div align="center">
+        <h2>🌐 Socials:</h2>
+        <div>
+            <a href="https://facebook.com/How.Mohsin">
+                <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+            </a>
+            <a href="https://instagram.com/president_mohsin">
+                <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+            </a>
+            <a href="https://linkedin.com/in/mohsin-mukhtiar-lashari-773431288">
+                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+            <a href="https://medium.com/@PRESIDNET-XD">
+                <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
+            </a>
+            <a href="https://x.com/just_mohsin">
+                <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+            </a>
+        </div>
+    </div>
 
 <div align="center">
   <h1>Certifications<h1>
