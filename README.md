@@ -8,7 +8,6 @@
 
 
 <div align="center">
-        <h1>  🌐</h1>
         <div>
             <a href="https://facebook.com/How.Mohsin">
                 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
