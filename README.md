@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <h1>Tryhackme</h1>
+  <h1>Tryhackme <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><use href="#simple-icons--tryhackme"/></svg></h1>
 </div>
 <div align="center">
     <iframe src="https://tryhackme.com/badge/2667421" width="200" height="200"></iframe>
