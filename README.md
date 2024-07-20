@@ -64,7 +64,9 @@
 
 <div align="center">
   <h1>Tryhackme</h1>
-  <script src="https://tryhackme.com/badge/2667421"></script>
+  <div align="center">
+    <script src="https://tryhackme.com/badge/2667421"></script>
+</div>
 </div>
 
 
