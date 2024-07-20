@@ -65,10 +65,6 @@
 <div align="center">
         <h1>Tryhackme </h1>
         <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
-</div>
-<div align="center">
-    <iframe src="https://tryhackme.com/badge/2667421" width="200" height="200"></iframe>
-</div>
 
 <div align="center">
   <h1>My Contributions</h1>
