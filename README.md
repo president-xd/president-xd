@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's Mohsin Mukhtiar a.k.a PRESIDENT</h1>
-<h4 align="center">Programmer
-</h4>
+<h2 align="center">Programmer
+</h2>
 
 <div align="center">
-        <h2>🌐 Socials:</h2>
+        <h1>🌐 Socials:</h1>
         <div>
             <a href="https://facebook.com/How.Mohsin">
                 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -23,7 +23,7 @@
         </div>
     </div>
 <div align="center">
-        <h2>👨🏻‍🔬 Tech Stack:</h2>
+        <h1>👨🏻‍🔬 Tech Stack:</h1>
         <div>
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -79,7 +79,7 @@
 
 
  <div align="center">
-        <h2>⚡ GitHub Stats:</h2>
+        <h1>⚡ GitHub Stats:</h1>
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=PRESIDENT-XD&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
             <br/>
@@ -90,21 +90,21 @@
     </div>
 
 <div align="center">
-        <h2>✍️ Random Dev Quote</h2>
+        <h1>✍️ Random Dev Quote</h1>
         <div>
             <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
         </div>
     </div>
 
 <div align="center">
-        <h2>🔝 Top Contributed Repo</h2>
+        <h1>🔝 Top Contributed Repo</h1>
         <div>
             <img src="https://github-contributor-stats.vercel.app/api?username=PRESIDENT-XD&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
         </div>
     </div>
 
  <div align="center">
-        <h2>💰 You can help me by Donating</h2>
+        <h1>💰 Buy me Coffee</h1>
         <div>
             <a href="https://buymeacoffee.com/president.xd">
                 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
