@@ -65,7 +65,7 @@
 <div align="center">
   <h1>Tryhackme</h1>
   <div align="center">
-    <script src="https://tryhackme.com/badge/2667421"></script>
+    <iframe src="https://tryhackme.com/badge/2667421" width="200" height="200"></iframe>
 </div>
 </div>
 
