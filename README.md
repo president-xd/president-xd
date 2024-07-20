@@ -63,9 +63,10 @@
 </div>
 
 <div align="center">
-    <h1>Tryhackme <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe" width="30" height="30"></h1>
+    <h1>Tryhackme <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Icon" width="30" height="30"></h1>
     <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe Badge">
 </div>
+
 
   <h1>My Contributions</h1>
   <br>
