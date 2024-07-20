@@ -28,8 +28,7 @@
             <a href="https://leetcode.com/u/Presi-dent/">
                 <img src="https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white" alt="LeetCode">
             </a>
-
-        </div>
+    </div>
     </div>
 <div align="center">
         <h1> Tech Stack 👨🏻‍🔬</h1>
