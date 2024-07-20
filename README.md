@@ -120,7 +120,8 @@
     </div>
 
 <div align="center">
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=PRESIDENT-XD&icon=0&color=0" alt="Visit Count">
-        </a>
+       <a href="https://buymeacoffee.com/president.xd">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+
     </div>    
