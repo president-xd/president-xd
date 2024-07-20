@@ -64,7 +64,7 @@
 
 <div align="center">
   <h1>Tryhackme</h1>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
+  <script src="https://tryhackme.com/badge/2667421"></script>
 </div>
 
 
