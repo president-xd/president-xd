@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-        <h1>🌐 Socials:</h1>
+        <h1> Socials 🌐</h1>
         <div>
             <a href="https://facebook.com/How.Mohsin">
                 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
@@ -23,7 +23,7 @@
         </div>
     </div>
 <div align="center">
-        <h1>👨🏻‍🔬 Tech Stack:</h1>
+        <h1> Tech Stack 👨🏻‍🔬</h1>
         <div>
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -54,7 +54,7 @@
 
     
 <div align="center">
-  <h1>Certifications<h1>
+  <h1>Certifications 📜<h1>
   <img src="assets/python-google.png" alt="Python" width="150">
   <img src="assets/cybersecurity.png" alt="Cyber" width="150">
   <img src="assets/Cpp.png" alt="Cpluscplus" width="150">
@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-  <h1>My Contributions</h1>
+  <h1>My Contributions 💼</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -96,7 +96,7 @@
     </div>
 
 <div align="center">
-        <h1>🔝 Top Contributed Repo</h1>
+        <h1>Top Contributed Repo ⭐</h1>
         <div>
             <img src="https://github-contributor-stats.vercel.app/api?username=PRESIDENT-XD&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
         </div>
