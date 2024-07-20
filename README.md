@@ -22,7 +22,37 @@
             </a>
         </div>
     </div>
+<div align="center">
+        <h2>👨🏻‍🔬 Tech Stack:</h2>
+        <div>
+            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+            <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+            <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+            <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+            <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
+            <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
+            <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+            <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+            <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+            <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+            <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+            <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
+            <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
+            <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+            <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
+        </div>
+    </div>
 
+    
 <div align="center">
   <h1>Certifications<h1>
   <img src="assets/python-google.png" alt="Python" width="150">
@@ -30,13 +60,6 @@
   <img src="assets/Cpp.png" alt="Cpluscplus" width="150">
   <img src="assets/IBM.png" alt="Networking" width="150">
   <img src="assets/bash.png" alt="Bash" width="150">
-</div>
-
-<h2 align="center">Skills 👨🏻‍🔬</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=linux" /><br> <!-- react,firebase,figma,mongodb,flask,mysqltypescript,express,mongodb,r, -->
 </div>
 
 <div align="center">
@@ -54,10 +77,43 @@
 
 ---
 
+
+ <div align="center">
+        <h2>⚡ GitHub Stats:</h2>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=PRESIDENT-XD&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+            <br/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRESIDENT-XD&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRESIDENT-XD&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+        </div>
+    </div>
+
 <div align="center">
-  <h1>⚡ Stats</h1>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PRESIDENT-XD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="PRESIDENT-XD Github Stats">
-  <br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=president-xd&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+        <h2>✍️ Random Dev Quote</h2>
+        <div>
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+        </div>
+    </div>
+
+<div align="center">
+        <h2>🔝 Top Contributed Repo</h2>
+        <div>
+            <img src="https://github-contributor-stats.vercel.app/api?username=PRESIDENT-XD&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+        </div>
+    </div>
+
+ <div align="center">
+        <h2>💰 You can help me by Donating</h2>
+        <div>
+            <a href="https://buymeacoffee.com/president.xd">
+                <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+            </a>
+        </div>
+    </div>
+
+<div align="center">
+        <a href="https://visitcount.itsvg.in">
+            <img src="https://visitcount.itsvg.in/api?id=PRESIDENT-XD&icon=0&color=0" alt="Visit Count">
+        </a>
+    </div>    
