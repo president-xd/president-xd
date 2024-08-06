@@ -45,15 +45,6 @@
         </div>
     </div>
 
-    
-<div align="center">
-  <h1>Certifications 📜<h1>
-  <img src="assets/python-google.png" alt="Python" width="150">
-  <img src="assets/cybersecurity.png" alt="Cyber" width="150">
-  <img src="assets/Cpp.png" alt="Cpluscplus" width="150">
-  <img src="assets/IBM.png" alt="Networking" width="150">
-  <img src="assets/bash.png" alt="Bash" width="150">
-</div>
 
 <div align="center">
     <h1>Tryhackme <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Icon" width="30" height="30"></h1>
@@ -74,6 +65,9 @@
     <div>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
+        </a>
+    </div>
+</div>
 
  <div align="center">
         <h1>⚡ GitHub Stats:</h1>
