@@ -29,11 +29,7 @@
             </a>
     </div>
     </div>
-<div align="center">
-    <h1>Top Contributions 🏆</h1>
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
+
         </a>
     </div>
 </div>
@@ -77,6 +73,11 @@
 
 ---
 
+<div align="center">
+    <h1>Trophies 🏆</h1>
+    <div>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
 
  <div align="center">
         <h1>⚡ GitHub Stats:</h1>
