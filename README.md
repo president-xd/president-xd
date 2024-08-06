@@ -30,6 +30,15 @@
     </div>
     </div>
 <div align="center">
+    <h1>Top Contributions 🏆</h1>
+    <div>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
+        </a>
+    </div>
+</div>
+  
+<div align="center">
         <h1> Tech Stack 👨🏻‍🔬</h1>
         <div>
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
