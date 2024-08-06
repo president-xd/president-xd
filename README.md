@@ -60,14 +60,7 @@
 
 ---
 
-<div align="center">
-    <h1>Trophies 🏆</h1>
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
-        </a>
-    </div>
-</div>
+
 
  <div align="center">
         <h1>⚡ GitHub Stats:</h1>
@@ -88,11 +81,14 @@
     </div>
 
 <div align="center">
-        <h1>Top Contributed Repo ⭐</h1>
-        <div>
-            <img src="https://github-contributor-stats.vercel.app/api?username=PRESIDENT-XD&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-        </div>
+    <h1>Trophies 🏆</h1>
+    <div>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=president-xd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Trophies">
+        </a>
     </div>
+</div>
+---
 
  <div align="center">
         <h1>💰 Buy me Coffee</h1>
