@@ -113,8 +113,6 @@
         </div>
     </div>
     <div align="center">
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=president-xd&icon=0&color=0" alt="Visit Count">
-        </a>
+            <img src="https://komarev.com/ghpvc/?username=president-xd&style=for-the-badge&color=orange" alt="Visit Count">
     </div>
 
