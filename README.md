@@ -68,7 +68,7 @@
             <br/>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=president-xd&theme=radical&hide_border=false" alt="GitHub Streak Stats">
             <br/>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&theme=highcontrast&title_color=FF3E8A&bg_color=1C1C1C" alt="GitHub Language Stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&theme=highcontrast&title_color=FF3E8A&bg_color=1C1C1C00" alt="GitHub Language Stats">
         </div>
     </div>
 
