@@ -87,7 +87,6 @@
         </a>
     </div>
 </div>
----
 
  <div align="center">
         <h1>💰 Buy me Coffee</h1>
