@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    Just Programmer
+    Just a Programmer
 </h2>
 
 
