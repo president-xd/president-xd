@@ -47,7 +47,7 @@
 
 <div align="center">
     <h1>Tryhackme <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Icon" width="30" height="30"></h1>
-    <img src="https://tryhackme.com/badge/2667421">
+    <img src="https://tryhackme.com/badge/2667421"></img>
 </div>
 
 <div align="center">
@@ -99,4 +99,3 @@
     <div align="center">
             <img src="https://komarev.com/ghpvc/?username=president-xd&style=for-the-badge&color=orange" alt="Visit Count">
     </div>
-
