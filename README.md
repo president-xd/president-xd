@@ -47,7 +47,7 @@
 
 <div align="center">
     <h1>Tryhackme <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Icon" width="30" height="30"></h1>
-    <script src="https://tryhackme.com/badge/2667421"></script>
+    <img src="https://tryhackme.com/badge/2667421">
 </div>
 
 <div align="center">
