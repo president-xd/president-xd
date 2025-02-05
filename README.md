@@ -19,7 +19,7 @@
 # ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=dark&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)<br/>
-![]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=president-xd&layout=compact&theme=dark&langs_count=40&size_weight=0.2&count_weight=.4&)](https://github.com/anuraghazra/github-readme-stats))
+![](https://github-readme-stats.vercel.app/api/wakatime?username=president-xd&layout=compact&theme=dark&langs_count=40&size_weight=0.2&count_weight=.4&)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=president-xd&theme=dark&no-frame=false&no-bg=true&margin-w=4)
