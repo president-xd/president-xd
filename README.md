@@ -12,7 +12,7 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=xcode&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=dark&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)<br/>
 
