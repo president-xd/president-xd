@@ -34,30 +34,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/president.xd) 
-
-
-<div align="center">
-        <div>
-            <a href="https://facebook.com/How.Mohsin">
-                <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-            </a>
-            <a href="https://instagram.com/president_mohsin">
-                <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-            </a>
-            <a href="https://linkedin.com/in/mohsin-mukhtiar-lashari-773431288">
-                <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-            </a>
-            <a href="https://medium.com/@PRESIDNET-XD">
-                <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
-            </a>
-            <a href="https://x.com/just_mohsin">
-                <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-            </a>
-            <a href="https://leetcode.com/u/Presi-dent/">
-                <img src="https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white" alt="LeetCode">
-            </a>
-    </div>
-    </div>
-  
-
-
