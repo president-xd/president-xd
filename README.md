@@ -7,7 +7,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ex._mohsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/in/Mohsin-Lashari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PRESIDNET-XD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@justmohsin._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lasharimohsin19@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ex._mohsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/in/Mohsin-Lashari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PRESIDNET-XD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@justmohsin._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lasharimohsin19@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-black.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Presi-dent/)
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
