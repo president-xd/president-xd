@@ -11,9 +11,12 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en)<br/>
+
+# 📊 Contribution Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=xcode&hide_border=true)
+
+# ⚡ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=dark&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php)<br/>
 
 ## 🏆 GitHub Trophies
@@ -55,42 +58,5 @@
     </div>
     </div>
   
-<div align="center">
-        <h1> Tech Stack 👨🏻‍🔬</h1>
-        <div>
-            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-            <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-            <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-            <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-            <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-            <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
-        </div>
-    </div>
-
-
-<div align="center">
-    <h1>Tryhackme <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Icon" width="30" height="30"></h1>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/President..png" alt="TryHackMe">
-</div>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=xcode&hide_border=true" alt="Activity graph">
-  <br/><br/><br/>
-</div>
-
----
-
-
-
- <div align="center">
-        <h1>⚡ GitHub Stats:</h1>
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=president-xd&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Github Stats">
-            <br/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=transparent&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php" alt="GitHub Streak Stats">
-        </div>
-    </div>
 
 
