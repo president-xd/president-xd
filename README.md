@@ -1,3 +1,4 @@
+![](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+President+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;)
 # 💫 About Me:
 🔭 I’m currently researching Network Security and Malware. <br>👯 I’m looking to collaborate on Malware Analysis & Development projects. <br>🤝 I’m seeking passionate individuals for innovative work. <br>🌱 I’m currently learning more about Malware Analysis & Development. <br>💬 Ask me about: Network Security, Programming <br>⚡ Fun fact: I combine the curiosity of a hacker with the precision of a programmer, making me a unique force in the tech world.
 
