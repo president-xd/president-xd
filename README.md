@@ -67,7 +67,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=president-xd&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Github Stars">
             <img src="https://github-readme-stats.vercel.app/api?username=president-xd&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
             <br/>
-            <img src="https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php" alt="GitHub Streak Stats">
+            <img src="https://github-readme-stats-mahdieths-projects.vercel.app/api/top-langs/?username=president-xd&layout=compact&theme=transparent&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php" alt="GitHub Streak Stats">
         </div>
     </div>
 
