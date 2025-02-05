@@ -54,6 +54,7 @@
   <h1>My Contributions 💼</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
   <br/><br/><br/>
 </div>
 
