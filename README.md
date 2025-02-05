@@ -51,7 +51,6 @@
 </div>
 
 <div align="center">
-<h1>My Contribution Graph </h1>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=xcode&hide_border=true" alt="Activity graph">
   <br/><br/><br/>
 </div>
