@@ -8,6 +8,8 @@
 
 ### Penetration Tester
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=president-xd&label=Profile views&color=0e75b6&style=flat" alt="president-xd" /> </p>
+
 - 🔭 I'm currently working on **Agentic AI Security Posture Monitoring Framework**
 
 - 🌱 I'm currently learning **Red Teaming**
