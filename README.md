@@ -74,7 +74,7 @@ docker run --rm --entrypoint python revula:latest -c "from revula.server import 
 
 ---
 
-### My GitHub Stats
+## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=president-xd&show_icons=true&theme=radical" alt="GitHub Ranks">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=president-xd&theme=radical" alt="GitHub Streak">
