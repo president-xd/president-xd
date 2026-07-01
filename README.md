@@ -33,6 +33,7 @@
 
 ### My GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=president-xd&show_icons=true&theme=radical" alt="GitHub Ranks">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=president-xd&theme=radical" alt="GitHub Streak">
 </p>
 
