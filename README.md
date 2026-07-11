@@ -114,6 +114,6 @@ docker run --rm --entrypoint python revula:latest -c "from revula.server import 
 
 ## 📈 Contribution Graph
 
-[![Khizar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eros938&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khizar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
