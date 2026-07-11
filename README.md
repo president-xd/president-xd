@@ -79,7 +79,6 @@ docker run --rm --entrypoint python revula:latest -c "from revula.server import 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=president-xd&show_icons=true&theme=radical" alt="GitHub Ranks">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=president-xd&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=president-xd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Github Graph">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=president-xd&theme=github_dark" alt="Github contribution graph">
 </p>
 
 ---
