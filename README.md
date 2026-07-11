@@ -99,3 +99,21 @@ docker run --rm --entrypoint python revula:latest -c "from revula.server import 
 ![Profile Views](https://komarev.com/ghpvc/?username=president-xd&color=blueviolet&style=flat-square)
 
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=president-xd&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=president-xd&theme=github_dark)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Khizar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eros938&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
